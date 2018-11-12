@@ -1,2 +1,2 @@
 # assignment4
-comp sci 225 assignment4
+This is a test project.
